@@ -1,0 +1,94 @@
+*.classpath
+*.factorypath
+*.project
+*.prefs
+*.png
+target/classes/com/utilities/Helper.class
+target/classes/com/utilities/ReadWriteTestCases.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.web/qa/pom.properties
+target/classes/META-INF/maven/com.web/qa/pom.xml
+target/classes/testData/Constants.class
+target/classes/testData/UsersManager.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/collapseall.gif
+target/surefire-reports/emailable-report.html
+target/surefire-reports/index.html
+target/surefire-reports/jquery-3.6.0.min.js
+target/surefire-reports/testng.css
+target/surefire-reports/testng-failed.xml
+target/surefire-reports/testng-reports.css
+target/surefire-reports/testng-reports.js
+target/surefire-reports/testng-reports1.css
+target/surefire-reports/testng-reports2.js
+target/surefire-reports/testng-results.xml
+target/surefire-reports/TestSuite.txt
+target/surefire-reports/TEST-TestSuite.xml
+target/surefire-reports/junitreports/TEST-loginpage.LoginAsAdministrator.xml
+target/surefire-reports/old/index.html
+target/surefire-reports/old/Suite1/classes.html
+target/surefire-reports/old/Suite1/groups.html
+target/surefire-reports/old/Suite1/index.html
+target/surefire-reports/old/Suite1/loginpage.properties
+target/surefire-reports/old/Suite1/main.html
+target/surefire-reports/old/Suite1/methods.html
+target/surefire-reports/old/Suite1/methods-alphabetical.html
+target/surefire-reports/old/Suite1/methods-not-run.html
+target/surefire-reports/old/Suite1/reporter-output.html
+target/surefire-reports/old/Suite1/testng.xml.html
+target/surefire-reports/old/Suite1/toc.html
+target/surefire-reports/Suite1/loginpage.html
+target/surefire-reports/Suite1/loginpage.xml
+target/surefire-reports/Suite1/testng-failed.xml
+target/test-classes/config.properties
+target/test-classes/configurations/testng.xml
+target/test-classes/excelExportAndFileIO/TestCases.xlsx
+target/test-classes/excelExportAndFileIO/TestCasesResult.xlsx
+target/test-classes/excelExportAndFileIO/TestCasesResultFinal.xlsx
+target/test-classes/excelExportAndFileIO/Users.xlsx
+target/test-classes/locators/LoginLocators.class
+target/test-classes/loginpage/LoginAsAdministrator.class
+test-output/collapseall.gif
+test-output/emailable-report.html
+test-output/index.html
+test-output/jquery.min.js
+test-output/testng.css
+test-output/testng-failed.xml
+test-output/testng-reports.css
+test-output/testng-reports.js
+test-output/testng-reports1.css
+test-output/testng-reports2.js
+test-output/testng-results.xml
+test-output/Default suite/Default test.html
+test-output/Default suite/Default test.xml
+test-output/Default suite/testng-failed.xml
+test-output/junitreports/TEST-loginpage.LoginAsAdministrator.xml
+test-output/old/index.html
+test-output/old/Default suite/classes.html
+test-output/old/Default suite/Default test.properties
+test-output/old/Default suite/groups.html
+test-output/old/Default suite/index.html
+test-output/old/Default suite/main.html
+test-output/old/Default suite/methods.html
+test-output/old/Default suite/methods-alphabetical.html
+test-output/old/Default suite/methods-not-run.html
+test-output/old/Default suite/reporter-output.html
+test-output/old/Default suite/testng.xml.html
+test-output/old/Default suite/toc.html
+test-output/old/Suite1/classes.html
+test-output/old/Suite1/groups.html
+test-output/old/Suite1/index.html
+test-output/old/Suite1/loginpage.properties
+test-output/old/Suite1/main.html
+test-output/old/Suite1/methods.html
+test-output/old/Suite1/methods-alphabetical.html
+test-output/old/Suite1/methods-not-run.html
+test-output/old/Suite1/reporter-output.html
+test-output/old/Suite1/testng.xml.html
+test-output/old/Suite1/toc.html
+test-output/Suite1/loginpage.html
+test-output/Suite1/loginpage.xml
+test-output/Suite1/testng-failed.xml
